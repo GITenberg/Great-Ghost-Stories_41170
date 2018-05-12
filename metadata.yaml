@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 41170-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41170#Great-Ghost-Stories
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
