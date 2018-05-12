@@ -1,0 +1,35 @@
+_repo: Great-Ghost-Stories_41170
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+covers:
+- cover_type: archival
+  image_path: 41170-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41170'
+  lccn: '18010839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcc 'PN'
+- !lcsh 'Fiction'
+tableOfContents: The house and the brain, by Lord E. Bulwer-Lytton -- The roll-call
+  of the reef, by A. T. Quiller-Couch -- The open door, by M. Oliphant -- The deserted
+  house, by E. T. A. Hoffmann -- The mysterious sketch, by Erckmann-Chatrian -- Green
+  branches, by F. Macleod -- The four-fifteen express, by A. B. Edwards -- The were-wolf,
+  by H. B. Marryatt -- The withered arm, by T. Hardy -- Clarimonde, by T. Gautier
+  -- The stalls of Barchester Cathedral, by M. R. James -- What was it?, by F.-J.
+  O'Brien.
+title: Great Ghost Stories
+url: http://www.gutenberg.org/ebooks/41170
